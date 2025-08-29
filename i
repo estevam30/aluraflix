@@ -39,20 +39,20 @@
 
         <div class="categoria-video">
 
-            <a href="https://youtu.be/Vl-VIOfoPE0?si=XVmrUdQ2fRpRbesKo"&gt;
-                <img src="https://img.youtube.com/vi/Rvts4Btgkxs/maxresdefault.jpg"&gt;
+            <a href="https://youtu.be/Vl-VIOfoPE0?si=XVmrUdQ2fRpRbesKo">
+                <img src="foto1.jpeg">
             </a>
-            <a href="https://youtu.be/G882SFDPRBM?si=asqFbxnQiEknkDF1"&gt;
-                <img src="https://img.youtube.com/vi/Rvts4Btgkxs/maxresdefault.jpg"&gt;
+            <a href="https://youtu.be/G882SFDPRBM?si=asqFbxnQiEknkDF1">
+                <img src="foto2.jpeg">
             </a>
-            <a href="https://youtu.be/5ZuhwC5tdbQ?si=Ag6NpEcxuFFG0YUY"&gt;
-                <img src="https://img.youtube.com/vi/Rvts4Btgkxs/maxresdefault.jpg"&gt;
+            <a href="https://youtu.be/5ZuhwC5tdbQ?si=Ag6NpEcxuFFG0YUY">
+                <img src="foto3.jpeg">
             </a>
-            <a href="https://youtu.be/8kzdLzfl2o4?si=YBwIv6jKO4CN0wOt"&gt;
-                <img src="https://img.youtube.com/vi/Rvts4Btgkxs/maxresdefault.jpg"&gt;
+            <a href="https://youtu.be/8kzdLzfl2o4?si=YBwIv6jKO4CN0wOt">
+                <img src="foto4.css">
             </a>
-            <a href="https://youtu.be/Ub8dtnNHSVM?si=En_xmr_oEqc8Vbdj"&gt;
-                <img src="https://img.youtube.com/vi/Rvts4Btgkxs/maxresdefault.jpg"&gt;
+            <a href="https://youtu.be/Ub8dtnNHSVM?si=En_xmr_oEqc8Vbdj">
+                <img src="foto5.jpeg">
             </a>
 
        
